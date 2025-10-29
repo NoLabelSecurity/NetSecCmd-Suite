@@ -69,6 +69,7 @@ This tool is particularly useful for technicians, system administrators, and cyb
 ## 📊 Example Menu Structure
 
 ======================================
+
 NETWORK MANAGEMENT TOOL
 
 1. Network Diagnostics
@@ -78,6 +79,7 @@ NETWORK MANAGEMENT TOOL
 5. System Networking and Configuration
 6. Miscellaneous Network Tools
 7. Exit
+
 ======================================
 
 ---
