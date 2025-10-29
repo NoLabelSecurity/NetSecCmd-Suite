@@ -1,5 +1,5 @@
-# NetCmd
-# 🧩 Network Management Tool
+# NetSecCmd-Suite
+# 🧩 NetSecCmd-Suite
 Developer: Brian Lorick  
 Organization: No/Label Security Services & Solutions  
 Version: 1.1.0  
@@ -9,7 +9,7 @@ Last Updated:** October 20, 2025
 ---
 
 ## 📘 Overview
-The Network Management Tool is a Windows Batch-based utility designed to simplify and centralize essential network administration and system maintenance tasks.  
+The Network Security Command Suite (NetSecCmd-Suite) is a Windows Batch-based utility designed to simplify and centralize essential network administration and system maintenance tasks.  
 Through an interactive, menu-driven interface, it allows IT professionals to execute diagnostic, configuration, and monitoring commands quickly — without manually recalling complex syntax.
 
 This tool is particularly useful for technicians, system administrators, and cybersecurity professionals who need a portable, script-based toolkit for troubleshooting and maintaining Windows systems.
