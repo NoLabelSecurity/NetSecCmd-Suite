@@ -1,14 +1,26 @@
-# 🧩 Network Management Tool
-**Developer:** Brian Lorick  
-**Organization:** No/Label Security Services & Solutions  
-**Version:** 1.1.0  
-**Created:** February 5, 2025  
-**Last Updated:** October 20, 2025  
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <h1>🧩 Network Security Command Suite</h1>
+      <p><strong>Developer:</strong> Brian Lorick<br>
+      <strong>Organization:</strong> No/Label Security Services & Solutions<br>
+      <strong>Version:</strong> 1.1.0<br>
+      <strong>Created:</strong> February 5, 2025<br>
+      <strong>Last Updated:</strong> October 20, 2025</p>
+    </td>
+    <td style="vertical-align: top; text-align: right;">
+      <img src="https://raw.githubusercontent.com/NoLabelSecurity/NetSecCmd-Suite/main/assets/demo.gif" width="375">
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
 ## 📘 Overview
-The **Network Management Tool** is a Windows Batch-based utility designed to simplify and centralize essential network administration and system maintenance tasks.  
+The **Network Security Command Suite** is a Windows Batch-based utility designed to simplify and centralize essential network administration and system maintenance tasks.  
+
 Through an interactive, menu-driven interface, it allows IT professionals to execute diagnostic, configuration, and monitoring commands quickly — without manually recalling complex syntax.
 
 This tool is particularly useful for technicians, system administrators, and cybersecurity professionals who need a portable, script-based toolkit for troubleshooting and maintaining Windows systems.
@@ -68,6 +80,7 @@ This tool is particularly useful for technicians, system administrators, and cyb
 ## 📊 Example Menu Structure
 
 ======================================
+
 NETWORK MANAGEMENT TOOL
 
 1. Network Diagnostics
@@ -77,6 +90,7 @@ NETWORK MANAGEMENT TOOL
 5. System Networking and Configuration
 6. Miscellaneous Network Tools
 7. Exit
+
 ======================================
 
 ---
@@ -111,11 +125,11 @@ Attribution is appreciated.
 
 ## ✉️ Contact
 **Developer:** Brian Lorick  
-**Organization:** No/Label Security Services & Solutions  
-**Email:** *(optional — add if you wish)*  
+**Organization:** No/Label Security Services & Solutions   
 
 > “Simplify the complex. Automate the routine. Secure the system.”
 
 ---
+
 
 
